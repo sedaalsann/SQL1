@@ -1,4 +1,4 @@
-## **Task 2**
+## **Task 3**
 1.country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 ```
 SELECT * FROM country
